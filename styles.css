@@ -1,0 +1,26 @@
+body {
+    font-family: papyrus, copperplate, fantasy;
+    background-color: rgb(255, 196, 196);
+}
+
+.top-heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: #333333;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 35px;
+    color: #333333;
+}
+
+p, ul, ol {
+    font-size: 18px;
+    color: #333333;
+}
+
+ul li a {
+    color: #008080;
+}
