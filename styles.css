@@ -24,3 +24,20 @@ p, ul, ol {
 ul li a {
     color: #008080;
 }
+
+.card-container {
+    display: block;
+    border: 2px hidden gray;
+    text-align: center;
+}
+
+div {
+    display: inline-block;
+}
+
+.recipe1, .recipe2, .recipe3 {
+    padding: 20px 35px;
+    border: 2px hidden black;
+    border-radius: 5px;
+    background-color: rgb(250, 209, 209);
+}
